@@ -1,0 +1,17 @@
+
+<h1 style="color: red;">Boiler plate</h1>
+
+<p style="color: yellow;"> THIS IS JUST MEANT FOR A QUICK START FOR A SERVER</p>
+
+<h1>dependency's</h1>
+<p>
+"cors": "^2.8.5",
+"dotenv": "^16.3.1",
+"express": "^4.18.2",
+"jsx-view-engine": "^1.0.0",
+"mongoose": "^7.5.3",
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"react-router-dom": "^6.16.0",
+"router": "^1.3.8"
+</p>
